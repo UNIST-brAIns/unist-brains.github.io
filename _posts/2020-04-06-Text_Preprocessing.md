@@ -7,6 +7,8 @@ tags: study tutorial
 
 
 
+
+
 # 텍스트 전처리 기법
 
 Machine Learning을 진행하기에 앞서 우리는 항상 학습을 진행할 데이터와 마주하게 된다. 
