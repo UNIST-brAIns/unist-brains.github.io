@@ -19,6 +19,7 @@ tags: style-transfer
 스타일 트랜스퍼 기법을 이용한 전이는 크게 두 가지 방법으로 이루어집니다.
 
 **1) Pre-trained Model based Style-Transfer**
+
 학습된 모델을 기반으로 콘텐츠 이미지와 스타일 이미지를 결합하여 새로운 이미지를 생성하는 방식입니다. 이미지 2개만으로도 스타일 트랜스퍼가 가능하다는 장점이 있으며, 최근에는 [Demo Website](https://reiinakano.com/arbitrary-image-stylization-tfjs/)를 통해 여러 스타일 이미지를 결합하여 새로운 스타일을 만든 후, 이를 콘텐츠 이미지에 적용하는 UX(User Experience)를 제공하기도 합니다.
 
 ![Style_Transfer_Demo](/assets/Style_Transfer_Demo.png)
@@ -43,8 +44,9 @@ tags: style-transfer
 
 해당 섹션(section)에서는 흥미를 돋우기 위해 글 없이 github에 있는 응용 사례를 사진으로 간단히 첨부하도록 하겠습니다. 링크는 Project Website거나 PaperWithCode이며 이를 통해 Github, 논문 PDF 등에 접속해서 직접 재현해보고 학술적 내용에 대한 공부를 해볼 수 있으므로 *UNIST의 격투기형 교육* 이 글을 시작으로 한 번 해보도록 합시다! ~~참고로 UNIST 교수님이 저자인 논문도 있다~~
 
-**1) 사진 표정 & 구도 변화
-[Diagonal Attention and Style-based GAN for Content-Style Disentanglement in Image Generation and Translation (ICCV 2021)](https://paperswithcode.com/paper/diagonal-attention-and-style-based-gan-for)**
+**1) 사진 표정 & 구도 변화**
+
+> [Diagonal Attention and Style-based GAN for Content-Style Disentanglement in Image Generation and Translation (ICCV 2021)](https://paperswithcode.com/paper/diagonal-attention-and-style-based-gan-for)
 
 > **구도 변화**
 
@@ -58,40 +60,49 @@ tags: style-transfer
 
 ![1_3](/assets/1_3.jpg)
 
-**2) 사진 속 인물 나이 변화
-[Scaling-up Disentanglement for Image Translation (ICCV 2021)](https://www.vision.huji.ac.il/overlord/)**
+**2) 사진 속 인물 나이 변화**
+
+> [Scaling-up Disentanglement for Image Translation (ICCV 2021)](https://www.vision.huji.ac.il/overlord/)
 
 ![2](/assets/2.jpg)
 
-**3) 고양이-강아지 변환 & 고양이 종 바꾸기
-[Continuous and Diverse Image-to-Image Translation via Signed Attribute Vectors (2021)](https://helenmao.github.io/SAVI2I/)
-[Rethinking the Truly Unsupervised Image-to-Image Translation (ICCV 2021)](https://paperswithcode.com/paper/rethinking-the-truly-unsupervised-image-to)
-[QS-Attn: Query-Selected Attention for Contrastive Learning in I2I Translation (CVPR 2022)](https://paperswithcode.com/paper/qs-attn-query-selected-attention-for)**
+**3) 고양이-강아지 변환 & 고양이 종 바꾸기**
+
+> [Continuous and Diverse Image-to-Image Translation via Signed Attribute Vectors (2021)](https://helenmao.github.io/SAVI2I/)
 
 ![3_0](/assets/3_0.png)
 
+> [Rethinking the Truly Unsupervised Image-to-Image Translation (ICCV 2021)](https://paperswithcode.com/paper/rethinking-the-truly-unsupervised-image-to)
+
 ![3](/assets/3.png)
+
+> [QS-Attn: Query-Selected Attention for Contrastive Learning in I2I Translation (CVPR 2022)](https://paperswithcode.com/paper/qs-attn-query-selected-attention-for)
 
 ![3_1](/assets/3_1.png)
 
-**4) 스케치 스타일 트랜스퍼
-[Complementary, Heterogeneous and Adversarial Networks for Image-to-Image Translation (IEEE TIP, 2021)](http://aiart.live/chan/)**
+**4) 스케치 스타일 트랜스퍼**
+
+> [Complementary, Heterogeneous and Adversarial Networks for Image-to-Image Translation (IEEE TIP, 2021)](http://aiart.live/chan/)
 
 ![4](/assets/4.jpg)
 
-**5) 애니메이션 & 코믹스 스타일 트랜스퍼
-[SPatchGAN: A Statistical Feature Based Discriminator for Unsupervised Image-to-Image Translation (ICCV 2021)](https://paperswithcode.com/paper/spatchgan-a-statistical-feature-based)
-[https://utkarshojha.github.io/few-shot-gan-adaptation/ (CVPR 2021)](https://github.com/utkarshojha/few-shot-gan-adaptation)
-[StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators (2021)](https://stylegan-nada.github.io/)**
+**5) 애니메이션 & 코믹스 스타일 트랜스퍼**
+
+> [SPatchGAN: A Statistical Feature Based Discriminator for Unsupervised Image-to-Image Translation (ICCV 2021)](https://paperswithcode.com/paper/spatchgan-a-statistical-feature-based)
 
 ![5](/assets/5.jpg)
 
+> [Few-shot Image Generation via Cross-domain Correspondence (CVPR 2021)](https://utkarshojha.github.io/few-shot-gan-adaptation/)
+
 ![5_1](/assets/5_1.gif)
+
+> [StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators (2021)](https://stylegan-nada.github.io/)
 
 ![5_2](/assets/5_2.jpg)
 
 **6) 명화 스타일 트랜스퍼
-[A Style-Aware Content Loss for Real-time HD Style Transfer (ECCV 2018)](https://compvis.github.io/adaptive-style-transfer/)**
+
+> [A Style-Aware Content Loss for Real-time HD Style Transfer (ECCV 2018)](https://compvis.github.io/adaptive-style-transfer/)**
 
 ![6](/assets/6.jpg)
 
