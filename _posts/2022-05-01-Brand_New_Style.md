@@ -100,19 +100,19 @@ tags: style-transfer
 
 ![5_2](/assets/5_2.jpg)
 
-**6) 명화 스타일 트랜스퍼
+**6) 명화 스타일 트랜스퍼**
 
-> [A Style-Aware Content Loss for Real-time HD Style Transfer (ECCV 2018)](https://compvis.github.io/adaptive-style-transfer/)**
+> [A Style-Aware Content Loss for Real-time HD Style Transfer (ECCV 2018)](https://compvis.github.io/adaptive-style-transfer/)
 
 ![6](/assets/6.jpg)
 
 ## Style-Transfer과 앞으로의 10년
 
-![Loving_Vincent](/assets/Loving_Vincent.jpg)
+![Loving_Vincent](/assets/Loving_Vincent_2.jpg)
 
-빈센트 반 고흐의 전기를 다룬 영화 **러빙 빈센트(Loving Vincent)**는 107명의 아티스트가 그린 6만 5000장 유화 작품으로 구성된 영화입니다. 현재 Netflix를 통해서도 볼 수 있는 이 영화는 개봉 당시였던 2017년 주목을 받았으며, 탄탄한 작품성과 색다른 시도로 크게 호평을 받았습니다.
+빈센트 반 고흐의 전기를 다룬 영화 **러빙 빈센트(Loving Vincent)**. 107명의 아티스트가 그린 6만 5000장 유화 작품으로 구성된 영화입니다. 현재 Netflix를 통해서도 볼 수 있는 이 영화는 개봉 당시였던 2017년 주목을 받았으며, 탄탄한 작품성과 색다른 시도로 크게 호평을 받았습니다.
 
-> 리빙 빈센트의 한 장면
+> 러빙 빈센트의 한 장면
 
 ![Loving_Vincent_jpg](/assets/Loving_Vincent.gif)
 
