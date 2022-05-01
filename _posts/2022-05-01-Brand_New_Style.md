@@ -64,7 +64,7 @@ tags: style-transfer
 
 > [Scaling-up Disentanglement for Image Translation (ICCV 2021)](https://www.vision.huji.ac.il/overlord/)
 
-![2](/assets/2.jpg)
+![2_0](/assets/2_0.png)
 
 **3) 고양이-강아지 변환 & 고양이 종 바꾸기**
 
