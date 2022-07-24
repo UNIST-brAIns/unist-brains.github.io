@@ -1,6 +1,6 @@
 ---
 title: "Coursera 기계 학습 특화 과정 Week 1&2 "
-tags: Coursera, Supervised Learning, Unsupervised Learning
+tags: Coursera, Supervised Learning, Regression
 ---
 
 작성자: 정석훈
